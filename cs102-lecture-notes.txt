@@ -3,3 +3,6 @@ git push
 git clone 
 git remote -v
 git add
+
+we also learn how to copy the contents of the public key file to the git hub setings
+
