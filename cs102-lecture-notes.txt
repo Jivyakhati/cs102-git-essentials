@@ -1,0 +1,5 @@
+git pull
+git push 
+git clone 
+git remote -v
+git add
